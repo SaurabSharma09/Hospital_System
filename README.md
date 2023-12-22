@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <title>Hospital Management System</title>
 </head>
@@ -11,17 +10,20 @@
     <section>
         <h2>Project Preview</h2>
         <div class="image-grid">
-            <img src="https://github.com/SaurabSharma09/Hospital-Management-System/blob/main/Preview/image%20(1).png"
+            <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2001.jpg"
                 alt="Preview 1">
-            <img src="https://github.com/SaurabSharma09/Hospital-Management-System/blob/main/Preview/image.png"
+            <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2002.jpg"
                 alt="Preview 2">
-            <img src="https://github.com/SaurabSharma09/Hospital-Management-System/blob/main/Preview/image%20(3).png"
+            <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2003.jpg"
                 alt="Preview 3">
-            <img src="https://github.com/SaurabSharma09/Hospital-Management-System/blob/main/Preview/image%20(4).png"
+            <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2004.jpg.png"
                 alt="Preview 4">
+            <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2005.jpg"
+                alt="Preview 5">
+            <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2006.jpg"
+                alt="Preview 6">
         </div>
     </section>
-
     <section>
         <h2>Introduction</h2>
         <p>The <strong>Hospital Management System</strong> is a comprehensive solution designed to streamline and
@@ -38,7 +40,6 @@
             and radiology management, electronic health records (EHR), decision support and analytics, and integration
             and interoperability.</p>
     </section>
-
     <section>
         <h2>Analysis Methodology</h2>
         <p><strong>Stages of Iterative Model: Use Iterative SDLC (Software Development Life Cycle)</strong></p>
@@ -58,7 +59,6 @@
             <li><strong>Maintenance:</strong> After deployment, address bugs, errors, or implement new updates.</li>
         </ol>
     </section>
-
     <section>
         <h2>Getting Started</h2>
         <h3>Prerequisites</h3>
@@ -68,7 +68,6 @@
             <li>Database server (e.g., MySQL)</li>
             <li>PHP 7.0+</li>
         </ul>
-
         <h3>Installation</h3>
         <ol>
             <li>Clone the repository:
@@ -80,7 +79,6 @@
             <li>Access the system via a web browser.</li>
         </ol>
     </section>
-
     <section>
         <h2>Usage</h2>
         <ol>
