@@ -16,7 +16,7 @@
                 alt="Preview 2">
             <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2003.jpg"
                 alt="Preview 3">
-            <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2004.jpg.png"
+            <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2004.jpg"
                 alt="Preview 4">
             <img src="https://github.com/SaurabSharma09/Hospital_System/blob/main/Preview%2005.jpg"
                 alt="Preview 5">
@@ -31,7 +31,6 @@
             improving efficiency, accuracy, and the quality of healthcare services while enhancing patient care and
             safety.</p>
     </section>
-
     <section>
         <h2>Objective & Scope of Project</h2>
         <p>The objective is to improve the efficiency and effectiveness of healthcare operations, enhance patient care,
@@ -88,7 +87,6 @@
             <li>Ensure secure and efficient handling of electronic health records.</li>
         </ol>
     </section>
-
     <section>
         <h2>Features</h2>
         <ul>
@@ -102,7 +100,6 @@
             <li>Integration and interoperability with other healthcare systems</li>
         </ul>
     </section>
-
     <section>
         <h2>Contributing</h2>
         <p>We welcome contributions to the <strong>Hospital Management System</strong>. To contribute, follow these
