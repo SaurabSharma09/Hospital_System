@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hospital Management System</title>
 </head>
 <body>
     <header>
-        <h1>Hospital Management System</h1>
+        <h1>Hospital System</h1>
     </header>
     <section>
         <h2>Project Preview</h2>
